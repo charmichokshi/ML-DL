@@ -1,0 +1,3 @@
+{"val_loss": 0.5342404446490701, "val_categorical_accuracy": 0.7467755514477926, "loss": 0.5109406456470015, "categorical_accuracy": 0.7901035020075946, "epoch": 0}
+{"val_loss": 0.5572016482197103, "val_categorical_accuracy": 0.7467755514477926, "loss": 0.39651361643614996, "categorical_accuracy": 0.8449491067711575, "epoch": 1}
+{"val_loss": 0.5424242226170406, "val_categorical_accuracy": 0.7467755514477926, "loss": 0.38013743613642526, "categorical_accuracy": 0.8484258461758435, "epoch": 2}
