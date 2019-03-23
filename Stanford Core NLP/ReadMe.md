@@ -5,7 +5,8 @@ Follow the steps to run the script:
 3. Start server using: java -mx5g -cp "*" edu.stanford.nlp.pipeline.StanfordCoreNLPServer -timeout 10000
 4. Run the script using: python sentimentAnalysis.py
 
-output:
+
+Predictions:
 
 - You are the best one!: 	 4 Verypositive
 - I am feeling hungry: 	   2 Neutral
